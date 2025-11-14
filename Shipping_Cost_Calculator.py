@@ -1,4 +1,4 @@
-# Here is a new update by thinh-mazeika
+# Here is another update by thinh-mazeika
 
 # Shipping Cost Calculator
 
